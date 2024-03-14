@@ -46,6 +46,7 @@
     <li>Data Structures And Algorithms</li>
     <li>React JS</li>
 </ul>
+<hr></hr>
 
 <!-- Code Editor Section - List Of Code Editors That I Have Used While Building Projects-->
 <h3>📝 Code Editors:</h3>
