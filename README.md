@@ -48,7 +48,7 @@
 <hr></hr>
 
 <h3>🏆 GitHub Trophies:</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Rastogi-Software-Engineer&theme=onestar&no-frame=false&no-bg=true&margin-w=4">
+<img src="https://github-profile-trophy.vercel.app/?username=SakshiRastogi1302&theme=onestar&no-frame=false&no-bg=true&margin-w=4">
 <hr></hr>
 
 <h3>🔝 Top Contributed Repositories:</h3>
