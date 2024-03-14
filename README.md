@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Sakshi Rastogi! <img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/GIFs/wave.gif" width=25px height=20px></h1>
+<h1 align="center">Hi, I am Sakshi Rastogi! <img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/GIFs/wave.gif" width=35px height=30px></h1>
 
 <p align="center"><img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/Images/Image.png" width="600px" height="300px"></p>
 <hr></hr>
