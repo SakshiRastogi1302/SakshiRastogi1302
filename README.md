@@ -27,7 +27,7 @@
 
 <!-- Coding Platform Account Link-->
 <h3>📢 Let's Connect On Coding Platform:</h3>
-<a href=""><img src="https://img.shields.io/badge/Leetcode-f5f122.svg?style=plastic&logo=leetcode&logoColor=prange">
+<a href=""><img src="https://img.shields.io/badge/Leetcode-f5f122.svg?style=plastic&logo=leetcode&logoColor=orange">
 <hr></hr>
 
 <!-- Skill Set Section - List Of Technologies That I Have Worked Upon-->
