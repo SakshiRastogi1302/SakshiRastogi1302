@@ -6,7 +6,7 @@
 <!-- About Section - Introduction-->
 <h3>💫 About Me:</h3>
 <ul>
-    <li>I am a skilled front-end developer with 1 + years of experience in creating visually stunning and user friendly websites and web applications. 
+    <li>I am a skilled <b> Full Stack Developer</b> with 1 + years of experience in creating visually stunning and user friendly websites and web applications. 
     </li>
     <li>I develop dynamic, responsive interfaces with expertise in HTML, CSS, JavaScript, Typescript and ReactJS.</li>
     <li>I deliver high-quality products that meet client needs.</li>
@@ -53,6 +53,7 @@
 <ul>
     <li>Node.js</li>
     <li>Tailwind CSS</li>
+    <li>Spring Boot</li>
 </ul>
 <hr></hr>
 
