@@ -25,6 +25,11 @@
 <a href="https://github.com/SakshiRastogi1302/SakshiRastogi1302/issues"><img src="https://img.shields.io/badge/-GitHub-202020?style=plastic&logo=github&logoColor=white"></a>
 <hr></hr>
 
+<!-- Coding Platform Account Link-->
+<h3>📢 Let's Connect On Coding Platform:</h3>
+<a href=""><img src="https://img.shields.io/badge/Leetcode-f5f122.svg?style=flat-square&logo=leetcode&logoColor=prange">
+<hr></hr>
+
 <!-- Skill Set Section - List Of Technologies That I Have Worked Upon-->
 <h3>💻 My Skill Set:</h3>
 <a href=""><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
