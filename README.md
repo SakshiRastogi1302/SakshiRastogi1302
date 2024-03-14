@@ -1,6 +1,6 @@
-<h3 style="text-align:center">Hi, I am Sakshi Rastogi! <img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/GIFs/wave.gif" width=25px height=20px></h3>
+<h3 align="center">Hi, I am Sakshi Rastogi! <img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/GIFs/wave.gif" width=25px height=20px></h3>
 
-<p style="display:block; margin:0 auto;"><img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/Images/Image.png" width="600px" height="300px"></p>
+<p align="center"><img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/Images/Image.png" width="600px" height="300px"></p>
 <hr></hr>
 
 <h3>💫 About Me:</h3>
