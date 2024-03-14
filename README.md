@@ -52,7 +52,7 @@
 <h3>📝 Code Editors:</h3>
 <a href=""><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visualstudiocode&logoColor=blue"></a>
 <a href=""><img src="https://img.shields.io/badge/-Eclipse-232c40?style=flat&logo=eclipse&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/-WebStorm-ffff00?style=flat&logo=webstorm&logoColor=black"></a>
+<a href=""><img src="https://img.shields.io/badge/-WebStorm-3a5bc5?style=flat&logo=webstorm&logoColor=black"></a>
 <a href=""><img src="https://img.shields.io/badge/-XCode-ffffff?style=flat&logo=xcode&logoColor=blue"></a>
 <a href=""><img src="https://img.shields.io/badge/-Android%20Studio-5b747d?style=flat&logo=androidstudio&logoColor=green"></a>
 <hr></hr>
