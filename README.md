@@ -49,8 +49,8 @@
 <!-- Currently Learning Section -->
 <h3>🖋️ Currently Learning And Improving On:</h3>
 <ul>
-    <li><img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/Images/DSA.png" width=20px height=20px>Data Structures And Algorithms</li>
-    <li>React JS</li>
+    <li>Data Structures And Algorithms</li>
+    <li><img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/Images/React.png" width="20px" height="20px">React JS</li>
 </ul>
 <hr></hr>
 
