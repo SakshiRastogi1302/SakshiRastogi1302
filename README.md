@@ -24,10 +24,19 @@
 <a href=""><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <a href=""><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <a href=""><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<a href=""><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-<a href=""><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<a href=""><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<a href=""><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-<a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<a href=""><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-<a href=""><img src="https://img.shields.io/badge/Jest-8c3756.svg?style=for-the-badge&logo=jest&logoColor=white">
+<a href=""><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+<a href=""><img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Jest-8c3756.svg?style=for-the-badge&logo=jest&logoColor=white"></a>
+<hr></hr>
+
+<h3>📝 Code Editors:</h3>
+<a href=""><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visualstudiocode&logoColor=blue"></a>
+<a href=""><img src="https://img.shields.io/badge/-Eclipse-232c40?style=flat&logo=eclipse&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/-WebStorm-ffff00?style=flat&logo=webstorm&logoColor=black"></a>
+<a href=""><img src="https://img.shields.io/badge/-XCode-ffffff?style=flat&logo=xcode&logoColor=blue"></a>
+<a href=""><img src="https://img.shields.io/badge/-Android%20Studio-5b747d?style=flat&logo=androidstudio&logoColor=green"></a>
+<hr></hr>
