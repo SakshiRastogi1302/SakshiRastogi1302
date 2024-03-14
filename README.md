@@ -40,3 +40,20 @@
 <a href=""><img src="https://img.shields.io/badge/-XCode-ffffff?style=flat&logo=xcode&logoColor=blue"></a>
 <a href=""><img src="https://img.shields.io/badge/-Android%20Studio-5b747d?style=flat&logo=androidstudio&logoColor=green"></a>
 <hr></hr>
+
+<h3>📊 GitHub Stats:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-Rastogi-Software-Engineer&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-Rastogi-Software-Engineer&theme=dark&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Rastogi-Software-Engineer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<hr></hr>
+
+<h3>🏆 GitHub Trophies:</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Rastogi-Software-Engineer&theme=onestar&no-frame=false&no-bg=true&margin-w=4">
+<hr></hr>
+
+<h3>🔝 Top Contributed Repositories:</h3>
+<img src="https://github-contributor-stats.vercel.app/api?username=Sakshi-Rastogi-Software-Engineer&limit=5&theme=dark&combine_all_yearly_contributions=true">
+<hr></hr>
+
+<h3>👧 Profile Views:</h3>
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sakshi-Rastogi-Software-Engineer&icon=0&color=3"></a>
