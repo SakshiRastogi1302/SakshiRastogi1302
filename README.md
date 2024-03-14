@@ -48,6 +48,14 @@
 </ul>
 <hr></hr>
 
+<!-- Keen To Learn Section -->
+<h3>🤖 Keen To Learn:</h3>
+<ul>
+    <li>Node.js</li>
+    <li>Tailwind CSS</li>
+</ul>
+<hr></hr>
+
 <!-- Code Editor Section - List Of Code Editors That I Have Used While Building Projects-->
 <h3>📝 Code Editors:</h3>
 <a href=""><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visualstudiocode&logoColor=blue"></a>
