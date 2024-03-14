@@ -42,9 +42,9 @@
 <hr></hr>
 
 <h3>📊 GitHub Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-Rastogi-Software-Engineer&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-Rastogi-Software-Engineer&theme=dark&hide_border=false">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Rastogi-Software-Engineer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=SakshiRastogi1302&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiRastogi1302&theme=dark&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiRastogi1302&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 <hr></hr>
 
 <h3>🏆 GitHub Trophies:</h3>
