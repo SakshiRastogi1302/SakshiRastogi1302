@@ -38,6 +38,7 @@
 <a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Jest-8c3756.svg?style=for-the-badge&logo=jest&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Git-f55e32.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 <hr></hr>
 
 <!-- Currently Learning Section -->
