@@ -50,17 +50,15 @@
 <h3>🖋️ Currently Learning And Improving On:</h3>
 <ul>
     <li>Data Structures And Algorithms</li>
-    <li><img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/Images/React.png" width="30px" height="20px">React JS</li>
+    <li>React JS</li>
 </ul>
 <hr></hr>
 
 <!-- Keen To Learn Section -->
 <h3>🤖 Keen To Learn:</h3>
-<ul>
-    <li>Node.js</li>
-    <li>Tailwind CSS</li>
-    <li>Spring Boot</li>
-</ul>
+<a href=""><img src="https://img.shields.io/badge/Node%20JS-0c8b02.svg?style=for-the-badge&logo=node.js&logoColor=black"></a>
+<a href=""><img src="https://img.shields.io/badge/Tailwind%20CSS-f4fff6.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue"></a>
+<a href=""><img src="https://img.shields.io/badge/Spring%20Boot-0b000b.svg?style=for-the-badge&logo=spring-boot&logoColor=lightgreen"></a>
 <hr></hr>
 
 <!-- Code Editor Section - List Of Code Editors That I Have Used While Building Projects-->
