@@ -40,6 +40,13 @@
 <a href=""><img src="https://img.shields.io/badge/Jest-8c3756.svg?style=for-the-badge&logo=jest&logoColor=white"></a>
 <hr></hr>
 
+<!-- Currently Learning Section -->
+<h3>🖋️ Currently Learning And Improving On:</h3>
+<ul>
+    <li>Data Structures And Algorithms</li>
+    <li>React JS</li>
+</ul>
+
 <!-- Code Editor Section - List Of Code Editors That I Have Used While Building Projects-->
 <h3>📝 Code Editors:</h3>
 <a href=""><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visualstudiocode&logoColor=blue"></a>
