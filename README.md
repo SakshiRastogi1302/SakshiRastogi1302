@@ -52,8 +52,8 @@
 <hr></hr>
 
 <h3>🔝 Top Contributed Repositories:</h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=Sakshi-Rastogi-Software-Engineer&limit=5&theme=dark&combine_all_yearly_contributions=true">
+<img src="https://github-contributor-stats.vercel.app/api?username=SakshiRastogi1302&limit=5&theme=dark&combine_all_yearly_contributions=true">
 <hr></hr>
 
 <h3>👧 Profile Views:</h3>
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Sakshi-Rastogi-Software-Engineer&icon=0&color=3"></a>
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=SakshiRastogi1302&icon=0&color=3"></a>
