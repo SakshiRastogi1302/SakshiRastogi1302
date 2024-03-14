@@ -44,7 +44,7 @@
 <h3>🖋️ Currently Learning And Improving On:</h3>
 <ul>
     <li>Data Structures And Algorithms</li>
-    <li><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">React JS</li>
+    <li>React JS</li>
 </ul>
 <hr></hr>
 
