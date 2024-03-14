@@ -48,10 +48,9 @@
 
 <!-- Currently Learning Section -->
 <h3>🖋️ Currently Learning And Improving On:</h3>
-<ul>
-    <li>Data Structures And Algorithms</li>
-    <li>React JS</li>
-</ul>
+<a href=""><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+<a href=""><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+
 <hr></hr>
 
 <!-- Keen To Learn Section -->
