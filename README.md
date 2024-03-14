@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/sakshi-rastogi-461813173"><img src="https://img.shields.io/badge/-LinkedIn-286dab?style=plastic&logo=linkedin&logoColor=white"></a>
 <a href="https://t.me/Sakshi_Rastogi"><img src="https://img.shields.io/badge/-Telegram-4d1a7f?style=plastic&logo=Telegram&logoColor=white"></a>
 <a href="mailto:sakshi.rastogi1302@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white"></a>
-<a href="https://github.com/Sakshi-Rastogi-Software-Engineer/Sakshi-Rastogi-Software-Engineer/issues"><img src="https://img.shields.io/badge/-GitHub-202020?style=plastic&logo=github&logoColor=white"></a>
+<a href="https://github.com/SakshiRastogi1302/SakshiRastogi1302/issues"><img src="https://img.shields.io/badge/-GitHub-202020?style=plastic&logo=github&logoColor=white"></a>
 <hr></hr>
 
 <h3>💻 Tech Stack:</h3>
