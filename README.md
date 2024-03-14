@@ -13,8 +13,8 @@
 </ul>
 <hr></hr>
 
-<!-- Social Section -- Platforms Where People Can Connect With Me-->
-<h3>🌐 Socials:</h3>
+<!-- Connect With Me Section -- Platforms Where People Can Connect With Me-->
+<h3>🌐 Connect With Me:</h3>
 <!-- LinkedIn Profile Link -->
 <a href="https://linkedin.com/in/sakshi-rastogi-461813173"><img src="https://img.shields.io/badge/-LinkedIn-286dab?style=plastic&logo=linkedin&logoColor=white"></a>
 <!-- Telegram Profile Link -->
@@ -25,8 +25,8 @@
 <a href="https://github.com/SakshiRastogi1302/SakshiRastogi1302/issues"><img src="https://img.shields.io/badge/-GitHub-202020?style=plastic&logo=github&logoColor=white"></a>
 <hr></hr>
 
-<!-- Technology Stack Section - List Of Technologies That I Have Worked Upon-->
-<h3>💻 Technology Stack:</h3>
+<!-- Skill Set Section - List Of Technologies That I Have Worked Upon-->
+<h3>💻 My Skill Set:</h3>
 <a href=""><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <a href=""><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <a href=""><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
