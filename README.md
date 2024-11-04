@@ -5,12 +5,22 @@
 
 <!-- About Section - Introduction-->
 <h3>💫 About Me:</h3>
-<ul>
-    <li>I am a skilled <b> Full Stack Developer</b> with 1 + years of experience in creating visually stunning and user friendly websites and web applications. 
-    </li>
-    <li>I develop dynamic, responsive interfaces with expertise in HTML, CSS, JavaScript, Typescript and ReactJS.</li>
-    <li>I deliver high-quality products that meet client needs.</li>
-</ul>
+<p>
+
+1. **Professional Background:** I bring over a year of experience as a Full Stack Developer, focusing on dynamic web applications.
+
+2. **Core Competencies:** I am skilled in HTML, CSS, Tailwind CSS, JavaScript, and TypeScript, specializing in creating engaging user interfaces with React and managing application state with Redux.
+
+3. **Quality Assurance & Collaboration:** I use Jest for testing and Git for version control to maintain high code quality and facilitate effective teamwork.
+
+4. **API Integration & Deployment:** I have hands-on experience with Postman for API testing and Netlify for application deployment, enhancing the development workflow.
+   
+</p>
+<hr></hr>
+
+<!-- About Section - Introduction-->
+<h3>🏢 Open To Work:</h3>
+<p>I am actively seeking new job opportunities in the tech stack outlined below. Please feel free to connect with me on LinkedIn if you have any openings!</p>
 <hr></hr>
 
 <!-- Connect With Me Section -- Platforms Where People Can Connect With Me-->
