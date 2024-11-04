@@ -4,7 +4,7 @@
 <hr></hr>
 
 <!-- About Section - Introduction-->
-<h3>💫 About Me:</h3>
+<h3> 👧 About Me:</h3>
 <p>
 
 1. **Professional Background:** I bring over a year of experience as a Full Stack Developer, focusing on dynamic web applications.
