@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Sakshi Rastogi! <img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/GIFs/wave.gif" width=35px height=30px></h1>
 
-<p align="center"><img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/Images/Image_2.png" width="800px" height="300px"></p>
+<p align="center"><img src="https://github.com/SakshiRastogi1302/SakshiRastogi1302/blob/main/Images/Image_2.png" width="600px" height="400px"></p>
 <hr></hr>
 
 <!-- About Section - Introduction-->
