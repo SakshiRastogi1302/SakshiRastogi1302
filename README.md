@@ -26,18 +26,18 @@
 <!-- Connect With Me Section -- Platforms Where People Can Connect With Me-->
 <h3>🌐 Connect With Me:</h3>
 <!-- LinkedIn Profile Link -->
-<a href="https://linkedin.com/in/sakshi-rastogi-461813173" target="_new"><img src="https://img.shields.io/badge/-LinkedIn-286dab?style=plastic&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/sakshi-rastogi-461813173"><img src="https://img.shields.io/badge/-LinkedIn-286dab?style=plastic&logo=linkedin&logoColor=white"></a>
 <!-- Telegram Profile Link -->
-<a href="https://t.me/Sakshi_Rastogi" target="_blank"><img src="https://img.shields.io/badge/-Telegram-4d1a7f?style=plastic&logo=Telegram&logoColor=white"></a>
+<a href="https://t.me/Sakshi_Rastogi"><img src="https://img.shields.io/badge/-Telegram-4d1a7f?style=plastic&logo=Telegram&logoColor=white"></a>
 <!-- Gmail Account Link -->
-<a href="mailto:sakshi.rastogi1302@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white"></a>
+<a href="mailto:sakshi.rastogi1302@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white"></a>
 <!-- Github Profile Link -->
-<a href="https://github.com/SakshiRastogi1302/SakshiRastogi1302/issues" target="_blank"><img src="https://img.shields.io/badge/-GitHub-202020?style=plastic&logo=github&logoColor=white"></a>
+<a href="https://github.com/SakshiRastogi1302/SakshiRastogi1302/issues"><img src="https://img.shields.io/badge/-GitHub-202020?style=plastic&logo=github&logoColor=white"></a>
 <hr></hr>
 
 <!-- Coding Platform Account Link-->
 <h3>📢 Let's Connect On Coding Platform:</h3>
-<a href="https://leetcode.com/Sakshi_13/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-f5f122.svg?style=plastic&logo=leetcode&logoColor=orange"></a>
+<a href="https://leetcode.com/Sakshi_13/"><img src="https://img.shields.io/badge/Leetcode-f5f122.svg?style=plastic&logo=leetcode&logoColor=orange"></a>
 <hr></hr>
 
 <!-- Skill Set Section - List Of Technologies That I Have Worked Upon-->
