@@ -43,43 +43,48 @@
 <!-- Skill Set Section - List Of Technologies That I Have Worked Upon-->
 <h3>💻 My Skill Set:</h3>
 <div>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-f4fff6.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/redux-%238511FA.svg?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/netlify-%25430088.svg?style=for-the-badge&logo=netlify&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Jest-8c3756.svg?style=for-the-badge&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/Git-f55e32.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-f4fff6.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/redux-%238511FA.svg?style=for-the-badge&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/netlify-%25430088.svg?style=for-the-badge&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img src="https://img.shields.io/badge/Jest-8c3756.svg?style=for-the-badge&logo=jest&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-f55e32.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <hr></hr>
 
 <!-- Currently Learning Section -->
 <h3>🖋️ Currently Learning And Improving On:</h3>
-<img src="https://img.shields.io/badge/Data%20Structure%20And%20Algorithms-1eaefc.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-
+<div>
+    <img src="https://img.shields.io/badge/Data%20Structure%20And%20Algorithms-1eaefc.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</div>
 <hr></hr>
 
 <!-- Keen To Learn Section -->
 <h3>🤖 Keen To Learn:</h3>
-<img src="https://img.shields.io/badge/Node%20JS-0c8b02.svg?style=for-the-badge&logo=node.js&logoColor=black">
-<img src="https://img.shields.io/badge/Spring%20Boot-0b000b.svg?style=for-the-badge&logo=spring-boot&logoColor=lightgreen">
-<img src="https://img.shields.io/badge/mongodb-white.svg?style=for-the-badge&logo=mongodb&logoColor=yellow">
+<div>
+    <img src="https://img.shields.io/badge/Node%20JS-0c8b02.svg?style=for-the-badge&logo=node.js&logoColor=black">
+    <img src="https://img.shields.io/badge/Spring%20Boot-0b000b.svg?style=for-the-badge&logo=spring-boot&logoColor=lightgreen">
+    <img src="https://img.shields.io/badge/mongodb-white.svg?style=for-the-badge&logo=mongodb&logoColor=yellow">
+</div>
 <hr></hr>
 
 <!-- Code Editor Section - List Of Code Editors That I Have Used While Building Projects-->
 <h3>📝 Code Editors:</h3>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visualstudiocode&logoColor=blue">
-<img src="https://img.shields.io/badge/-Eclipse-232c40?style=flat&logo=eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/-WebStorm-ffff00?style=flat&logo=webstorm&logoColor=black">
-<img src="https://img.shields.io/badge/-XCode-ffffff?style=flat&logo=xcode&logoColor=blue">
-<img src="https://img.shields.io/badge/-Android%20Studio-5b747d?style=flat&logo=androidstudio&logoColor=green">
+<div>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-222222?style=flat&logo=visualstudiocode&logoColor=blue">
+    <img src="https://img.shields.io/badge/-Eclipse-232c40?style=flat&logo=eclipse&logoColor=white">
+    <img src="https://img.shields.io/badge/-WebStorm-ffff00?style=flat&logo=webstorm&logoColor=black">
+    <img src="https://img.shields.io/badge/-XCode-ffffff?style=flat&logo=xcode&logoColor=blue">
+    <img src="https://img.shields.io/badge/-Android%20Studio-5b747d?style=flat&logo=androidstudio&logoColor=green">
+</div>
 <hr></hr>
 
 <!-- My Profile Views -->
