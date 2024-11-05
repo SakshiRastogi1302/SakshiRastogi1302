@@ -42,6 +42,7 @@
 
 <!-- Skill Set Section - List Of Technologies That I Have Worked Upon-->
 <h3>💻 My Skill Set:</h3>
+<div>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-f4fff6.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue">
@@ -55,6 +56,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Jest-8c3756.svg?style=for-the-badge&logo=jest&logoColor=white">
 <img src="https://img.shields.io/badge/Git-f55e32.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
 <hr></hr>
 
 <!-- Currently Learning Section -->
