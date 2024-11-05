@@ -26,7 +26,7 @@
 <!-- Connect With Me Section -- Platforms Where People Can Connect With Me-->
 <h3>🌐 Connect With Me:</h3>
 <!-- LinkedIn Profile Link -->
-<a href="https://linkedin.com/in/sakshi-rastogi-461813173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-286dab?style=plastic&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/sakshi-rastogi-461813173" target="_new"><img src="https://img.shields.io/badge/-LinkedIn-286dab?style=plastic&logo=linkedin&logoColor=white"></a>
 <!-- Telegram Profile Link -->
 <a href="https://t.me/Sakshi_Rastogi" target="_blank"><img src="https://img.shields.io/badge/-Telegram-4d1a7f?style=plastic&logo=Telegram&logoColor=white"></a>
 <!-- Gmail Account Link -->
